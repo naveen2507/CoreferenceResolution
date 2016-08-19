@@ -9,6 +9,7 @@ Dependencies (Has to be in classpath):
 2.weka.jar
 
 Process to run the code :
+
 1. All the path and configuration settings(if its training procee or testing) is in ApplicationDetails.java. So for path setups, 	        modification in ApplicationDetails.java is required. All the paths ,throughout the project are read from this class.
 
 2. As explained in the process/methodology section of the documentation , first read the data file and extract markables.
