@@ -4,7 +4,7 @@ Co-reference Project
 
 The documentation explains the project work, which is focussed on 'A Machine Learning Approach to Coreference Resolution of Noun Phrases' by Soon.
 
-Dependencies: (Has to be in classpath)
+Dependencies (Has to be in classpath):
 1.apache-commons-lang.jar
 2.weka.jar
 
